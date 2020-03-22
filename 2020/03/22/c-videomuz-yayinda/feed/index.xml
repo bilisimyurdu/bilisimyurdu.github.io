@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bilişim Yurdu için yorumlar	</title>
-	<atom:link href="https://bilisimyurdu.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://bilisimyurdu.github.io</link>
+	C# Videomuz Yayında yazısına yapılan yorumlar	</title>
+	<atom:link href="https://bilisimyurdu.github.io/2020/03/22/c-videomuz-yayinda/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bilisimyurdu.github.io/2020/03/22/c-videomuz-yayinda/</link>
 	<description>Kişisel Gelişim</description>
 	<lastBuildDate>Sun, 22 Mar 2020 19:30:52 +0000</lastBuildDate>
 	<sy:updatePeriod>

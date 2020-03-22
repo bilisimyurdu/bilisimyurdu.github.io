@@ -12,7 +12,7 @@
 	<atom:link href="https://bilisimyurdu.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://bilisimyurdu.github.io</link>
 	<description>Kişisel Gelişim</description>
-	<lastBuildDate>Sun, 22 Mar 2020 17:57:58 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Mar 2020 19:30:52 +0000</lastBuildDate>
 	<language>tr</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
+		<title>C# Videomuz Yayında</title>
+		<link>https://bilisimyurdu.github.io/2020/03/22/c-videomuz-yayinda/</link>
+				<comments>https://bilisimyurdu.github.io/2020/03/22/c-videomuz-yayinda/#respond</comments>
+				<pubDate>Sun, 22 Mar 2020 19:29:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+
+		<guid isPermaLink="false">https://bilisimyurdu.github.io/?p=18</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="C# Öğreniyoruz #1" width="750" height="422" src="https://www.youtube.com/embed/IDEM-YPvhbQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+							<wfw:commentRss>https://bilisimyurdu.github.io/2020/03/22/c-videomuz-yayinda/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>Giriş</title>
 		<link>https://bilisimyurdu.github.io/2020/03/22/giris/</link>
 				<comments>https://bilisimyurdu.github.io/2020/03/22/giris/#respond</comments>
